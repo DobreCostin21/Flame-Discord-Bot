@@ -1,0 +1,14 @@
+{
+  "name": "flame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DobreCostin21/Flame-Discord-Bot",
+  "author": "Costin#4159",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "glob": "^7.2.0"
+  }
+}
